@@ -1,4 +1,3 @@
 # https://ruslanamav.github.io/shelter/shelter/
 
-[Макет Shelter. Figma](https://www.figma.com/file/tKcmzkARtMUFQAR9VLdLkl/shelter-dom?type=design&node-id=94-43&mode=design&t=pD54TbQko90SSEQP-0)
-
+[Макет Shelter. Figma](https://www.figma.com/file/SAoBmuOqTfguehdT4IFRxQ/Coffee-House?type=design&node-id=0-1&mode=design&t=LNGpAylK0MuE435Q-0)
